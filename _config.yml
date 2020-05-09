@@ -18,6 +18,7 @@ navbar-links:
     #- Learn markdown: "https://www.markdowntutorial.com/"
   Resume: "resume"
   Projects: "projects"
+  Contact: "contact"
 
 # --- Logo --- #
 

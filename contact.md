@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-Looking to get in touch? I'd love to hear from you. Simply click on the mail logo under this text.
+Looking to get in touch? I'd love to hear from you. You can send me an e-mail at me@daniellee.io or click on the mail logo under this text.
